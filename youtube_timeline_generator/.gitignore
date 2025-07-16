@@ -18,9 +18,6 @@ ENV/
 # Project specific
 temp/
 output/*.txt
-*.mp3
-*.mp4
-*.wav
 
 # Logs
 *.log
