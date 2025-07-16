@@ -1,0 +1,10 @@
+{
+  "id": "20250712_174715",
+  "title": "requirements.txtの作成",
+  "description": "必要なPythonライブラリの依存関係ファイル作成",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T17:47:15.517919",
+  "updated_at": "2025-07-12T17:48:44.042958"
+}

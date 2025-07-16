@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+temp/
+output/*.txt
+*.mp3
+*.mp4
+*.wav
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+config.ini

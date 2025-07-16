@@ -1,0 +1,10 @@
+{
+  "id": "20250712_191041",
+  "title": "音声特徴抽出モジュール実装",
+  "description": "librosaを使用した音量解析とピーク検出機能",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T19:10:41.939989",
+  "updated_at": "2025-07-12T19:11:40.839400"
+}

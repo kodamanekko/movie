@@ -1,0 +1,10 @@
+{
+  "id": "20250712_174721",
+  "title": "メインスクリプトの基本構造実装",
+  "description": "main.pyの基本的なCLI構造とエントリーポイント作成",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T17:47:21.622768",
+  "updated_at": "2025-07-12T17:49:19.778506"
+}

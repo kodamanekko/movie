@@ -1,0 +1,10 @@
+{
+  "id": "20250712_174726",
+  "title": "YouTube動画情報取得モジュール",
+  "description": "yt-dlpを使用した動画メタデータ取得機能",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T17:47:26.841566",
+  "updated_at": "2025-07-12T17:49:42.584913"
+}

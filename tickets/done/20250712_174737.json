@@ -1,0 +1,10 @@
+{
+  "id": "20250712_174737",
+  "title": "音声認識モジュール実装",
+  "description": "Whisperを使用した音声からテキストへの変換",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T17:47:37.735064",
+  "updated_at": "2025-07-12T17:50:31.912591"
+}

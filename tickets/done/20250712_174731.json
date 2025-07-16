@@ -1,0 +1,10 @@
+{
+  "id": "20250712_174731",
+  "title": "音声抽出モジュール実装",
+  "description": "FFmpegを使用した動画からの音声抽出機能",
+  "assignee": null,
+  "priority": "high",
+  "state": "done",
+  "created_at": "2025-07-12T17:47:31.576839",
+  "updated_at": "2025-07-12T17:50:07.015081"
+}
